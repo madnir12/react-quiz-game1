@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-quiz-game1/static/css/main.f76711c8.chunk.css",
-    "main.js": "/react-quiz-game1/static/js/main.99af59f9.chunk.js",
-    "main.js.map": "/react-quiz-game1/static/js/main.99af59f9.chunk.js.map",
+    "main.js": "/react-quiz-game1/static/js/main.5eb41a22.chunk.js",
+    "main.js.map": "/react-quiz-game1/static/js/main.5eb41a22.chunk.js.map",
     "runtime-main.js": "/react-quiz-game1/static/js/runtime-main.9f625ed4.js",
     "runtime-main.js.map": "/react-quiz-game1/static/js/runtime-main.9f625ed4.js.map",
     "static/js/2.194c40e4.chunk.js": "/react-quiz-game1/static/js/2.194c40e4.chunk.js",
     "static/js/2.194c40e4.chunk.js.map": "/react-quiz-game1/static/js/2.194c40e4.chunk.js.map",
     "index.html": "/react-quiz-game1/index.html",
-    "precache-manifest.61e10183bda06feab440c105ab96cb1b.js": "/react-quiz-game1/precache-manifest.61e10183bda06feab440c105ab96cb1b.js",
+    "precache-manifest.c4f4582809f622ce6725d916124588cd.js": "/react-quiz-game1/precache-manifest.c4f4582809f622ce6725d916124588cd.js",
     "service-worker.js": "/react-quiz-game1/service-worker.js",
     "static/css/main.f76711c8.chunk.css.map": "/react-quiz-game1/static/css/main.f76711c8.chunk.css.map",
     "static/js/2.194c40e4.chunk.js.LICENSE.txt": "/react-quiz-game1/static/js/2.194c40e4.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.9f625ed4.js",
     "static/js/2.194c40e4.chunk.js",
     "static/css/main.f76711c8.chunk.css",
-    "static/js/main.99af59f9.chunk.js"
+    "static/js/main.5eb41a22.chunk.js"
   ]
 }
